@@ -1,4 +1,4 @@
-# Numerical Integration Program
+# Numerical Integration
 
 ## Overview
 This program numerically approximates the definite integral of a user-specified mathematical function over a given range. It supports three widely-used numerical integration methods: Composite Simpson’s Rule, Composite Trapezoidal Rule, and Composite Midpoint Rule. The program also offers graphical visualizations of the function and integration area, allowing users to better understand the numerical process and results.
